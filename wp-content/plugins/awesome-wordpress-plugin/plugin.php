@@ -3,7 +3,7 @@
 /**
  * Plugin Name: Awesome WordPress Plugin
  * Author: WP Pusher
- * Version: 12.0.0
+ * Version: 20.0.0
  */
 
 add_filter( "wp_loaded", "checkForGreeting" );
